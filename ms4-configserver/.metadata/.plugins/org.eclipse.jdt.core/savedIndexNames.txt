@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\JavaProjects\MS-shanmughapriya\MS\ms4-configserver\.metadata\.plugins\org.eclipse.jdt.core
+2227838403.index
+3584998308.index
+1698827149.index
+1865797976.index
+2855845139.index
+2454345545.index
+3478455606.index
